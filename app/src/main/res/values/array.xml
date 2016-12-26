@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ar_city">
+        <item>上海</item>
+        <item>北京</item>
+        <item>深圳</item>
+        <item>西安</item>
+        <item>厦门</item>
+        <item>广州</item>
+        <item>台湾</item>
+        <item>香港</item>
+        <item>澳门</item>
+    </string-array>
+</resources>
